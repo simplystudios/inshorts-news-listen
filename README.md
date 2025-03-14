@@ -4,7 +4,8 @@ git clone
 pip install -r requirements.txt
 ```
 # About
-I wrote this program when i was bored so basically its a cli news app so when you run this code it will fetch news api by [Sumit Khole](https://github.com/sumitkolhe/) and read the top news for you using python text to speech
+A CLI News App fetch top news and recite it using text to speech made with inshorts unoffical api by [Sumit Khole](https://github.com/sumitkolhe/) and using [pyttx](https://github.com/nateshmbhat/pyttsx3)
+
 ![Alt text](image.png)
 
 # LICENCE
